@@ -1,1 +1,1 @@
-FROM gcr.io/kaniko-project/executor:v1.15.0-debug
+FROM docker.io/calico/kube-controllers:v3.25.0
