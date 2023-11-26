@@ -1,1 +1,1 @@
-FROM docker.io/calico/kube-controllers:v3.25.0
+FROM kubernetesui/dashboard:v2.5.1
