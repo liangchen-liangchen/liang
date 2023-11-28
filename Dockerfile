@@ -1,1 +1,1 @@
-FROM kubernetesui/metrics-scraper:v1.0.7
+FROM jenkins/jenkins:2.426.1-lts-jdk11
