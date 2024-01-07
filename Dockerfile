@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
+FROM docker.io/bitnami/bitnami-shell:11-debian-11-r123
