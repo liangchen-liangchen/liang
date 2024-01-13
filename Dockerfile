@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.426.2-lts-jdk11
+FROM docker.io/istio/examples-bookinfo-details-v1:1.18.0
