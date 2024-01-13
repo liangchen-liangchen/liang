@@ -1,1 +1,1 @@
-FROM docker.io/istio/examples-bookinfo-ratings-v1:1.18.0
+FROM docker.io/istio/examples-bookinfo-reviews-v1:1.18.0
