@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.426.3-lts-jdk11
+FROM quay.io/cephcsi/cephcsi:v3.7.2
