@@ -1,1 +1,1 @@
-FROM quay.io/metallb/speaker:v0.14.3
+FROM registry.k8s.io/ingress-nginx/controller:v1.9.6
