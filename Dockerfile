@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231226-1a7112e06
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.4.2
