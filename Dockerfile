@@ -1,1 +1,1 @@
-FROM mirrorgooglecontainers/addon-resizer:1.8.6
+FROM jenkins/jenkins:2.440.1-lts-jdk17
