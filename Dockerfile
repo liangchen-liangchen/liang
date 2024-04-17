@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.440.1-lts-jdk17
+FROM gcr.io/tetratelabs/web-frontend:1.0.0
