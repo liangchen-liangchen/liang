@@ -1,1 +1,1 @@
-FROM gcr.io/tetratelabs/customers:1.0.0
+FROM gcr.io/tetratelabs/web-frontend:1.0.0
