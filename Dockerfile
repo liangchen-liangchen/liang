@@ -1,1 +1,1 @@
-FROM gcr.io/tetratelabs/web-frontend:1.0.0
+FROM gcr.io/cadvisor/cadvisor:v0.49.1
