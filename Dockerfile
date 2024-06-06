@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor:v0.49.1
+FROM canal/canal-admin:v1.1.6
