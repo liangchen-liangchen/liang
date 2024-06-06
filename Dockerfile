@@ -1,1 +1,1 @@
-FROM canal/canal-admin:v1.1.6
+FROM canal/canal-server:v1.1.6
