@@ -1,1 +1,1 @@
-FROM canal/canal-server:v1.1.6
+FROM nginx:1.22.1
