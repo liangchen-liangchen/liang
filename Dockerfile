@@ -1,1 +1,1 @@
-FROM openanolis/anolisos:8.8
+FROM openanolis/anolisos:7.9-x86_64
