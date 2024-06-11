@@ -1,1 +1,1 @@
-FROM nginx:1.20.2
+FROM openanolis/anolisos:8.8
