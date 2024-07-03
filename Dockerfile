@@ -1,1 +1,2 @@
-FROM jenkins/jenkins:2.452.2-lts-jdk11
+FROM openanolis/anolisos:8.6
+
