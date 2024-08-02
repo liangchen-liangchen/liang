@@ -1,2 +1,2 @@
-FROM ossrs/srs:ubuntu20
+FROM jason5ng32/myip:latest
 
