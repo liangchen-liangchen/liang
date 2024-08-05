@@ -1,2 +1,2 @@
-FROM jason5ng32/myip:latest
+FROM redis:7.2.4
 
