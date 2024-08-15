@@ -1,1 +1,1 @@
-FROM nacos/nacos-server:v2.4.0
+FROM jenkins/jenkins:2.462.1-lts-jdk11
