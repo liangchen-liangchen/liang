@@ -1,1 +1,1 @@
-FROM ssgeek/nginx:nginx_error_1.14.2_v1.0
+FROM jenkins/jenkins:2.462.2-lts-jdk11
