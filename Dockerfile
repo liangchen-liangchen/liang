@@ -4,4 +4,5 @@
 
 # FROM apache/apisix:3.5.0-debian
 # FROM apache/apisix-dashboard:3.0.1-centos
-FROM prom/prometheus:v3.2.1
+# FROM prom/prometheus:v3.2.1
+FROM busybox:1.30
