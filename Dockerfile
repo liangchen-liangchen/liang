@@ -7,4 +7,4 @@
 # FROM prom/prometheus:v3.2.1
 # FROM busybox:1.30
 # FROM skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.6.0
-FROM skywalking-ui:9.6.0
+FROM skywalking.docker.scarf.sh/apache/skywalking-ui:9.6.0
