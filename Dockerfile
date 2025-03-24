@@ -8,4 +8,5 @@
 # FROM busybox:1.30
 # FROM skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.6.0
 # FROM skywalking.docker.scarf.sh/apache/skywalking-ui:9.6.0
-FROM docker.elastic.co/elasticsearch/elasticsearch:6.8.6
+# FROM docker.elastic.co/elasticsearch/elasticsearch:6.8.6
+FROM skywalking.docker.scarf.sh/apache/skywalking-satellite
