@@ -11,4 +11,5 @@
 # FROM docker.elastic.co/elasticsearch/elasticsearch:7.5.1
 # FROM skywalking.docker.scarf.sh/apache/skywalking-satellite
 # FROM jenkins/jenkins:2.492.2-lts-jdk17
-FROM python:3.11.0
+# FROM python:3.11.0
+FROM verdaccio/verdaccio:latest
