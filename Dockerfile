@@ -13,4 +13,5 @@
 # FROM jenkins/jenkins:2.492.2-lts-jdk17
 # FROM python:3.11.0
 # FROM verdaccio/verdaccio:latest
-FROM milvusdb/milvus:v2.5.15
+# FROM milvusdb/milvus:v2.5.15
+FROM milvusdb/milvus:v2.5.15-20250718-3a3b374f-arm64
