@@ -14,4 +14,5 @@
 # FROM python:3.11.0
 # FROM verdaccio/verdaccio:latest
 # FROM milvusdb/milvus:v2.5.15
-FROM milvusdb/milvus:v2.5.15-20250718-3a3b374f-arm64
+# FROM milvusdb/milvus:v2.5.15-20250718-3a3b374f-arm64
+FROM apache/apisix:3.15.0-debian
